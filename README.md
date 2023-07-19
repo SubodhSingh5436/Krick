@@ -35,14 +35,6 @@ The PowerBI dashboard project aims to provide data visualization and insights fo
 3. Analyze and gain insights from the provided visualizations.
 4. Export or share the dashboard as needed.
 
-## Data Sources
-
-The dashboard utilizes the following data sources:
-
-- [Data Source 1]: [Description of data source 1]
-- [Data Source 2]: [Description of data source 2]
-- ...
-
 ## Contributing
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
